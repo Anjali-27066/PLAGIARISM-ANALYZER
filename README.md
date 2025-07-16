@@ -9,7 +9,9 @@ This is a simple plagiarism checker built with Streamlit and scikit-learn's Tfid
 
 ## Usage
 1.Enter text in the three provided text areas.
+
 2.Click the "Check Plagiarism" button to initiate the plagiarism check.
+
 3.View the percentile scores displayed for each pair of texts.
 
 ## Working
